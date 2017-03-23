@@ -1,0 +1,18 @@
+{
+  "author": "css",
+  "name": "calcu_css",
+  "version": "0.1.1",
+  "description": "Caculate ex dx",
+  "main": "caculate",
+  "repository":{
+  	},
+  "keywords":[
+  	"calculate",
+  	"math",
+    "dx"
+  ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
